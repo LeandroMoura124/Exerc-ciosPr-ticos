@@ -18,5 +18,6 @@ public class App {
         l[0].folhear(100);
         l[0].avançarPag();
         System.out.println(l[0].detalhes());
+        System.out.println(l[1].detalhes());
     }
 }
